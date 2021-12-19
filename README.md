@@ -21,7 +21,10 @@
    Количество скаффолдов
    
    ![количество скаффолдов](https://user-images.githubusercontent.com/91056319/146689911-cbefceef-bf45-4246-a925-013ce222377d.JPG) 
-
+    
+    
+Ссылка на вторую часть ДЗ
+    https://colab.research.google.com/gist/hq43et28ms9z/c626ae89199bcf33af7fd712af8872a8/volgunov_hse21_hw2_pt-2-ipynb.ipynb
 
     
     
