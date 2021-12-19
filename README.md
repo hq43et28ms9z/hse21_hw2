@@ -16,6 +16,11 @@
    ![рефаививаи](https://user-images.githubusercontent.com/91056319/146686644-dfefe99a-b036-43a2-a49e-6ca62ad6e3c9.JPG)
    
    Количество неаннотированных белков = 279 – 52 = 227
+   
+   
+   Количество скаффолдов
+   
+   ![количество скаффолдов](https://user-images.githubusercontent.com/91056319/146689911-cbefceef-bf45-4246-a925-013ce222377d.JPG) 
 
 
     
